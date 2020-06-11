@@ -1,0 +1,8 @@
+Question: Which are the quickest and most effective frameworks and softwares to create and deploy a website containing a basic machine learning model?
+
+Introduction: 
+  Nowadays, when it comes to building and deploying a website, the options are really broad. Should you use the Angular or React frameworks? JavaScript or TypeScript? and for the back-end Django or Flask? Those are just a few of the question you can ask yourself. As you can start to see, this can lead to indecisiveness for people first jumping into the field. The same holds true for creating, training and deploying a Machine Learning (ML) model.
+  Today, if you search: "How to create a website for hosting a ML model." You will only find fragments to your answer scattered around different mediums, such as YouTube videos, e-books to online forums. Each suggesting a different solutions to a part of you question.
+  In this paper I will try to, condense and recompile the sources that I found most useful, into one unified guide on how to: Set up a website. From hosting it and setting up a domain, to coding a basic front-end and back-end; integrate a ML model in it using Python.
+  The end result of this paper is to, have a website with a canvas in which the user can use the mouse draw a number. Then the website using ML tries to recognize which number it is. To achieve this, I will be comparing the most widely adopted tools for this project. E.g. as previously mentioned Django and Flask and also the Scikit-Learn and TensorFlow python libraries for ML to name a few.
+
